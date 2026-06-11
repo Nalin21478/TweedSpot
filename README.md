@@ -16,7 +16,7 @@ TweedSpot is intended to be installed from GitHub.
 
 ```r
 install.packages("remotes")
-remotes::install_github("mallick-lab/TweedSpot", dependencies = TRUE)
+remotes::install_github("himelmallick/TweedSpot", dependencies = TRUE)
 ```
 
 Because TweedSpot depends on Bioconductor infrastructure, install missing
